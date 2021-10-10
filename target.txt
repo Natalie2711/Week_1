@@ -1,0 +1,9 @@
+'sourceclaimid', i.sourceclaimid,
+                        'claimnum', i.claimnum,
+                        'claimlinenum', i.claimlinenum,
+                        'adjustmentnum', i.adjustmentnum,
+                        'systemsourcecode', i.systemsourcecode,
+                        'messagesequencenum', i.messagesequencenum,
+                        'sourcemessagecode', i.sourcemessagecode,
+                        'messageid', i.messageid,
+                        'messagedescr', i.messagedescr
