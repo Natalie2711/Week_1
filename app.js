@@ -1,4 +1,3 @@
-// console.log('hello from node js')
 
 // const helpers = require('./helpers');
 
